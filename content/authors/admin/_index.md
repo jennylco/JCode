@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Carleton University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
